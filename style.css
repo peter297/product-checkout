@@ -16,7 +16,7 @@ body{
 .main-container{
     display: flex;
     flex-direction: column;
-    width: 330px;
+    width: 380px;
     margin: 70px auto;
     box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 10px;
@@ -93,7 +93,7 @@ body{
 
 .change{
     position: relative;
-    left: 198px;
+    left: 220px;
     top: -35px;
     cursor: pointer;
 
@@ -130,6 +130,8 @@ body{
         z-index: 1;
         background-color: white;
 
+    }
+
     .change{
             position: relative;
             left: 178px;
@@ -140,4 +142,3 @@ body{
 
 
 }
-
